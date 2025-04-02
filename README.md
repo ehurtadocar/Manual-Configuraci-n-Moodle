@@ -88,3 +88,39 @@ Seleccionaremos al usuario que queramos eliminar de la tabla y le daremos a "Eli
 
 Ahora te enseñare a en el curso A que no haya posibilitado de inscripción (es decir, que solo se permita el acceso de visitante de forma que el curso sea totalmente público sin control de usuarios ni alumnos ni profesores). Por otro lado, hiciera que en el curso B se necesite registro manual de usuarios (es decir, que sea el administrador tú quien matricule cada usuario en el curso, ya sea como profesor o como alumno).
 
+Iremos al menú principal de la pagina, en la barra superior no dirigiremos a "Cursos" y en este caso al A.
+![27](https://github.com/user-attachments/assets/36d52114-0776-4d8a-8d90-16c61e5adf76)
+
+Justo debajo de "Curso A" le damos a "Participantes".
+![image](https://github.com/user-attachments/assets/f8763a99-9301-4069-80ab-ed84f9fd4006)
+
+Y aplicamos los permisos para todo el mundo en el "A"
+![29](https://github.com/user-attachments/assets/c28986ea-9ec8-4a9e-8019-8181ebef3894)
+
+Y aplicamos los permisos para que solo se pueda inscribir manualmente en el "B".
+![image](https://github.com/user-attachments/assets/d29a69b9-437f-462b-aa95-2a2b58a97dc2)
+
+Ahora asignaremos a un usuario el rol de profesor en la misma clase como por ejemplo la A. Matriculamos al usuario o usuarios, vemos que donde pone estudiante hay un lapiz, cambiamos a profesor y guardamos
+![31](https://github.com/user-attachments/assets/f60a1e77-4fa4-4877-b798-c77e97512e2f)
+
+Por último te enseñaré a modificar un poco la interfaz de la pagina con la ayuda de extensiones.
+
+Deberas seguir los pasos de las siguientes imagenes
+![32](https://github.com/user-attachments/assets/454599cc-1c90-4b04-b1db-c98cfc7dc6c6)
+![33](https://github.com/user-attachments/assets/4f754047-d140-435a-904d-2f73d413a657)
+![34](https://github.com/user-attachments/assets/245b325e-bd26-482a-9ad0-74484cdf6c5d)
+Aqui elegimos la primera opcion de descarga ya que es la mas reciente. Se nos descargara un archivo .zip
+![35](https://github.com/user-attachments/assets/34e2de36-3c9c-46bb-a639-829e57148fb8)
+Ahora volvemos a la pagina de extensiones y en el recuadro del archivo .zip soltamos el que acabamos de descargar. Y damos a donde pone "Instalar complemento desde archivo zip"
+![36](https://github.com/user-attachments/assets/c55284ac-557b-4383-8f61-a94ebe6e196e)
+Continuamos
+![37](https://github.com/user-attachments/assets/9c2c79fc-9ee2-4d89-b2df-a3e17e3aa5bb)
+Continuamos
+![38](https://github.com/user-attachments/assets/991a2c21-e787-4ad2-b66e-dcea63f25386)
+Y damos en actualizar base de datos
+![39](https://github.com/user-attachments/assets/6074dd3d-3961-4bf6-9091-d16be0e502af)
+Esto lo dejamos por defecto a no ser que tengas los conocimientos necesarios.Guardamos cambios.
+![40](https://github.com/user-attachments/assets/34a692b1-5a49-4775-8ae8-1be80b682c1e)
+
+
+Y listo. Con esta básica guía de Moodle ya puedes orientarte e incluso ultilizar Moodle.
